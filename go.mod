@@ -1,7 +1,5 @@
 module github.com/zalgonoise/cfg
 
-go 1.21.0
+go 1.22.0
 
-toolchain go1.21.3
-
-require github.com/zalgonoise/x/errs v0.0.0-20231026174448-45b698aba498
+require github.com/zalgonoise/x/errs v0.0.0-20240217143626-99fa746173cd
